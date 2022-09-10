@@ -35,5 +35,5 @@ Backend of Text Game
 [otchlan]: https://otchlan.pl/
 [tibia]: https://www.tibia.com/
 
-[java-textgame]: https://github.com/TrueJacobG/Java-TextGameEngine
-[python-textgame]: https://github.com/TrueJacobG/Text-Adventure-Game-Engine
+[java-textgame]: https://github.com/TrueJacobG/text-game-engine-old
+[python-textgame]: https://github.com/TrueJacobG/text-adventure-game-engine-old
