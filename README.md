@@ -1,4 +1,8 @@
 # _Text Game_
+# ABANDONED PROJECT
+
+---
+
 Backend of Text Game
 
 ---
